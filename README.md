@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/olives-2/olives-2/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/olives-2/olives-2/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
